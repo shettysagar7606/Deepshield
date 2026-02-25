@@ -3,8 +3,7 @@
 
 ## 🔍 About
 DeepShield is a portable USB device powered by AMD's 
-Ryzen AI chip that detects deepfakes in videos, 
-images, and audio files — completely offline, 
+Ryzen AI chip that detects deepfakes videos — completely offline, 
 on any device, without internet.
 
 ## ❌ Problem
@@ -19,8 +18,6 @@ No internet. No cloud. No technical knowledge needed.
 
 ## 🎯 Detects
 - 🎥 Deepfake Videos
-- 🖼️ AI Generated Images  
-- 🎵 Cloned Audio / Voice
 
 ## 👥 Target Users
 - Journalists
@@ -35,8 +32,6 @@ No internet. No cloud. No technical knowledge needed.
 - AMD Ryzen AI NPU
 - AMD Vitis AI
 - EfficientNet (Video)
-- CNNDetection (Image)
-- RawNet (Audio)
 
 ## 🏆 Built For
 AMD Slingshot Hackathon 2026
